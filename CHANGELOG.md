@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/ron96g/monutil/compare/v1.3.0...v1.3.1) (2026-03-26)
+
+
+### Bug Fixes
+
+* **release:** add ci commit type to semantic-release rules ([c3a8c7f](https://github.com/ron96g/monutil/commit/c3a8c7f3723c240c34ba2156aa3db5c739708b29))
+
 # [1.3.0](https://github.com/ron96G/monutil/compare/v1.2.0...v1.3.0) (2025-05-15)
 
 
