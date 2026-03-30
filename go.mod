@@ -3,7 +3,7 @@ module github.com/ron96g/go-mono-util
 go 1.25.0
 
 require (
-	github.com/go-git/go-git/v5 v5.17.0
+	github.com/go-git/go-git/v5 v5.17.1
 	github.com/pkg/errors v0.9.1
 	golang.org/x/mod v0.34.0
 )
